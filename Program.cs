@@ -10,7 +10,7 @@
     Console.WriteLine("  (    )");
     Console.WriteLine(" //    \\\\");
     Console.WriteLine(" ||    ||");
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
     Console.Clear();
     Console.Beep(1650,500);
     Console.ForegroundColor = ConsoleColor.Red;
@@ -20,7 +20,7 @@
     Console.WriteLine("    (    )");
     Console.WriteLine("   //    \\\\");
     Console.WriteLine("   ||    ||");
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
     Console.Clear();
     Console.Beep(2200,500);
     Console.ForegroundColor = ConsoleColor.Red;
@@ -30,7 +30,7 @@
     Console.WriteLine("      (    )");
     Console.WriteLine("     //    \\\\");
     Console.WriteLine("     ||    ||");
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
     Console.Clear();
     Console.Beep(1759,500);
     Console.ForegroundColor = ConsoleColor.Red;
@@ -40,7 +40,7 @@
     Console.WriteLine("        (    )");
     Console.WriteLine("       //    \\\\");
     Console.WriteLine("       ||    ||");
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
     Console.Clear();
     Console.Beep(1980,500);
     Console.ForegroundColor = ConsoleColor.Red;
@@ -50,7 +50,7 @@
     Console.WriteLine("          (    )");
     Console.WriteLine("         //    \\\\");
     Console.WriteLine("         ||    ||");
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
     Console.Clear();
     Console.Beep(2200,500);
     Console.ForegroundColor = ConsoleColor.Red;
@@ -60,7 +60,7 @@
     Console.WriteLine("            (    )");
     Console.WriteLine("           //    \\\\");
     Console.WriteLine("           ||    ||");
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
     Console.Clear();
     Console.Beep(2200,500);
     Console.ForegroundColor = ConsoleColor.Red;
@@ -70,6 +70,7 @@
     Console.WriteLine("              (    )");
     Console.WriteLine("             //    \\\\");
     Console.WriteLine("             ||    ||");
+    Thread.Sleep(500);
     Console.Clear();
 }
 Console.WriteLine(" Obrigado pela Ateção!!!");
